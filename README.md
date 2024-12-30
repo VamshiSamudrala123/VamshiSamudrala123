@@ -1,16 +1,18 @@
 ## Hi there 👋
+I'm Vamshi, an ambitious and growth-oriented data enthusiast passionate about leveraging data to solve impactful problems. As an international student from India currently working in the USA, I bring a diverse perspective to the field of data science. With experience in data analysis, machine learning, and software development, I am constantly exploring advanced techniques to deliver meaningful insights.
 
-<!--
-**VamshiSamudrala123/VamshiSamudrala123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 What I Do
+- 📊 **Data Analysis:** Create interactive Tableau dashboards, clean and manipulate data using SQL, and identify patterns to improve academic outcomes.
+- 🤖 **Data Science Enthusiast:** Skilled in Python, R, and tools like TensorFlow and PyTorch for machine learning applications.
 
-Here are some ideas to get you started:
+## ⚒️ Skills & Tools
+- **Languages:** Python, SQL
+- **Frameworks:** TensorFlow, PyTorch
+- **Visualization:** Tableau, Power BI
+- **Data Analysis:** Pandas, NumPy, Scikit-learn
+- **Other Tools:** Git, Jupyter Notebook, Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📬 Let's Connect!
+- [LinkedIn]((https://www.linkedin.com/in/vamshi-samudrala-40953b173/))
+- [Email](mailto:samudralavamshi147.com)
