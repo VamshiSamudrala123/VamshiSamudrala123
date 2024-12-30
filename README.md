@@ -3,13 +3,13 @@ I'm Vamshi, an ambitious and growth-oriented data enthusiast passionate about le
 
 ## 🌟 What I Do
 - 📊 **Data Analysis:** Create interactive Tableau dashboards, clean and manipulate data using SQL, and identify patterns to improve academic outcomes.
-- 🤖 **Data Science Enthusiast:** Skilled in Python, R, and tools like TensorFlow and PyTorch for machine learning applications.
+- 🤖 **Data Science Enthusiast:** Skilled in Python, and tools like Scikit-learn, TensorFlow and PyTorch for machine learning applications.
 
 ## ⚒️ Skills & Tools
 - **Languages:** Python, SQL
-- **Frameworks:** TensorFlow, PyTorch
+- **Frameworks:** TensorFlow, PyTorch, Scikit-learn
 - **Visualization:** Tableau, Power BI
-- **Data Analysis:** Pandas, NumPy, Scikit-learn
+- **Data Analysis:** Pandas, NumPy
 - **Other Tools:** Git, Jupyter Notebook, Excel
 
 
