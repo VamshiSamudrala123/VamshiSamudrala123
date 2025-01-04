@@ -9,7 +9,7 @@ I'm Vamshi, an ambitious and growth-oriented data enthusiast passionate about le
 ## ⚒️ Skills & Tools
 - **Languages:** Python, SQL
 - **Frameworks:** TensorFlow, PyTorch, Scikit-learn
-- **Visualization:** Tableau, Power BI
+- **Visualization:** Tableau
 - **Data Analysis:** Pandas, NumPy
 - **Other Tools:** Git, Jupyter Notebook, Excel
 
