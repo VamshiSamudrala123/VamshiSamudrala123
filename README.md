@@ -16,4 +16,4 @@ I'm Vamshi, an ambitious and growth-oriented data enthusiast passionate about le
 
 ## 📬 Let's Connect!
 - [LinkedIn]((https://www.linkedin.com/in/vamshi-samudrala-40953b173/))
-- [Email](mailto:samudralavamshi147.com)
+- [Email](mailto:samudralavamshi147@gmail.com)
